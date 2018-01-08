@@ -8,4 +8,4 @@ https://github.com/thundergolfer/awesome-AI-academia
 
 https://github.com/ysh329/awesome-embedded-ai
 
-https://github.com/sophists/gallery.git
+https://www.cs.cmu.edu/~enron/
