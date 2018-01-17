@@ -21,3 +21,9 @@ https://github.com/thundergolfer/awesome-AI-academia
 [pender/chatbot-rnn](https://github.com/pender/chatbot-rnn) - A toy chatbot powered by deep learning and trained on data from Reddit
 
 https://github.com/huyingxi/Synonyms
+
+## Framework
+
+[pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
+
+[tensorlang/tensorlang](https://github.com/tensorlang/tensorlang) - Tensorlang, a differentiable programming language based on TensorFlow
