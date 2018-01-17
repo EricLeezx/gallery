@@ -33,3 +33,5 @@ https://github.com/huyingxi/Synonyms
 [dmlc/mxnet-notebooks](https://github.com/dmlc/mxnet-notebooks) - Notebooks for MXNet
 
 [Caffe、TensorFlow、MXnet三个开源库对比](https://chenrudan.github.io/blog/2015/11/18/comparethreeopenlib.html)
+
+[yao62995/tensorflow](https://github.com/yao62995/tensorflow) - 图解tensorflow 源码

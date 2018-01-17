@@ -1,3 +1,9 @@
 # TODO
 
-learning resources，framework，dataset，theory
+- [ ] language
+- [ ] data mining
+- [ ] learning resource
+- [ ] framework
+- [ ] dataset
+- [ ] theory
+- [ ] conference
