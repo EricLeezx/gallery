@@ -27,3 +27,9 @@ https://github.com/huyingxi/Synonyms
 [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 
 [tensorlang/tensorlang](https://github.com/tensorlang/tensorlang) - Tensorlang, a differentiable programming language based on TensorFlow
+
+[apache/incubator-mxnet](https://github.com/apache/incubator-mxnet) - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more
+
+[dmlc/mxnet-notebooks](https://github.com/dmlc/mxnet-notebooks) - Notebooks for MXNet
+
+[Caffe、TensorFlow、MXnet三个开源库对比](https://chenrudan.github.io/blog/2015/11/18/comparethreeopenlib.html)
